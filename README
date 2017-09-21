@@ -10,6 +10,7 @@ Creating a new branch is quick.
 
 Creating a new branch is quick and simple.
 
-Next we will try git merge --no-ff
+#Next we will try git merge --no-ff
 
+Now we are in branch dev.
 
